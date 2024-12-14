@@ -1,0 +1,10 @@
+.odin-recipes, h1 {
+    color: gold;
+    font-weight: bold;
+}
+
+.select-recipes, a {
+    list-style: none;
+    text-decoration: none;   
+    color: darkorange;
+}

@@ -1,10 +1,27 @@
-.odin-recipes, h1 {
+.odin-recipes > h1 {
     color: gold;
     font-weight: bold;
+    font-size: 69px;
+    font-family: Georgia, serif;
 }
 
 .select-recipes, a {
     list-style: none;
+    font-size: 32px;
     text-decoration: none;   
     color: darkorange;
+}
+
+.recipe-header, h1{
+    color: gold;
+    font-family: Arial, sans-serif;
+}
+
+.recipe-img, img {
+    height: 300px;
+    width: auto;
+}
+
+.ingredients.steps {
+    align-items: center;
 }

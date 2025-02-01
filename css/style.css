@@ -1,15 +1,30 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 .odin-recipes > h1 {
-    color: gold;
+    background-color: #496580;
+    margin: 20px 12px;
+    text-align: center;
+    color: #bafff5;
     font-weight: bold;
     font-size: 69px;
     font-family: Georgia, serif;
 }
 
 .select-recipes, a {
-    list-style: none;
+    margin: 20px 12px ;
+    padding: 20px 0 20px 50px;
+    display: block;
+    background-color: #baddff;
+    list-style: number;
     font-size: 32px;
     text-decoration: none;   
-    color: darkorange;
+    color: #f79256;
 }
 
 .recipe-header, h1{

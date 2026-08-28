@@ -38,9 +38,17 @@ a {
 
 /* dish pages */
 
+.recipe {
+    display: inline;
+}
 .recipe .home {
     color: white;
-    margin-top: 100px !important;
+    padding: 20px;
+    font-size: 30px;
+}
+
+button {
+    background-color: black;
 }
 
 .card {

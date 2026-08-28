@@ -16,7 +16,7 @@ body {
 
 .dish.list li a {
     font-size: 20px;
-    color: white;
+    color: black;
 }
 
 .dish {
@@ -34,6 +34,7 @@ ul {
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 /* dish pages */
@@ -85,4 +86,13 @@ button {
 
 .card li {
     margin: 4px 0 4px 17px;;
+}
+
+.odin.list {
+    background-color: white;
+    color: black;
+    width: 300px;
+    margin: 190px auto;
+    padding: 10px;
+    padding-bottom: 60px;
 }

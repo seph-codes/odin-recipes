@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
+body {
+    background-color: #092328;
+    color: white;
+}
+
+.odin {
+    margin: 50px 0 0 50px;
+}
+
+.dish.list li a {
+    font-size: 20px;
+    color: white;
+}
+
+.dish {
+    margin: 50px 0 0 35px;
+}
+
+ul {
+    font-size: medium;
+}
+
+.one,
+.two {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* dish pages */
+
+.recipe .home {
+    color: white;
+    margin-top: 100px !important;
+}
+
+.card {
+    background-color: white;
+    color: black;
+    width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.card h1 {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.card img {
+    display: block;
+    max-width: 100%;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+.card h2 {
+    margin: 20px auto;
+    text-align: justify;
+}
+
+.card p {
+    text-align: justify;
+    margin: 5px auto;
+}
+
+.card li {
+    margin: 4px 0 4px 17px;;
+}

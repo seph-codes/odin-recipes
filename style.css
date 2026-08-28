@@ -49,9 +49,11 @@ a {
 }
 
 button {
-    background-color: black;
+    background-color: #12544F;
+    color: #8BBB92;
     margin-top: 20px;
     margin-left: 1750px;
+    border-style: none;
 }
 
 .card {
